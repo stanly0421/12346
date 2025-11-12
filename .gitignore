@@ -36,6 +36,22 @@
 *.exe
 *.out
 *.app
+calculator
 
 # debug information files
 *.dwo
+
+# Qt-specific files
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.pro.user
+*.pro.user.*
+Makefile
+Makefile.*
+*-build-*
+build-*
+
+# Qt build directories
+.qmake.stash
